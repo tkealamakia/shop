@@ -1,7 +1,7 @@
-package com.tsunazumi.shop.bootstrap;
+package com.tsunazumi.app.bootstrap;
 
-import com.tsunazumi.shop.model.Product;
-import com.tsunazumi.shop.repository.ProductRepository;
+import com.tsunazumi.app.model.Product;
+import com.tsunazumi.app.repository.ProductRepository;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;

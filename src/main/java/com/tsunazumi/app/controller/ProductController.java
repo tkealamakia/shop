@@ -1,6 +1,6 @@
-package com.tsunazumi.shop.controller;
+package com.tsunazumi.app.controller;
 
-import com.tsunazumi.shop.service.ProductService;
+import com.tsunazumi.app.service.ProductService;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

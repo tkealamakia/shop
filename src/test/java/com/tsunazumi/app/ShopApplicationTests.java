@@ -1,4 +1,4 @@
-package com.tsunazumi.shop;
+package com.tsunazumi.app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

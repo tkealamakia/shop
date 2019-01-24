@@ -1,4 +1,4 @@
-package com.tsunazumi.shop.model;
+package com.tsunazumi.app.model;
 
 import lombok.*;
 

@@ -1,7 +1,7 @@
-package com.tsunazumi.shop.service;
+package com.tsunazumi.app.service;
 
-import com.tsunazumi.shop.model.Product;
-import com.tsunazumi.shop.repository.ProductRepository;
+import com.tsunazumi.app.model.Product;
+import com.tsunazumi.app.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 @Service
